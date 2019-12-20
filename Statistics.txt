@@ -1,0 +1,10 @@
+total number of concepts: 61
+average number of parents: 0.9836066
+number of leaf concepts: 38
+longest paths from a root to a counter concept: 8
+-object-->actor-->person-->employee-->university employee-->faculty member-->professor-->assistant professor
+-object-->actor-->person-->employee-->university employee-->faculty member-->professor-->associate professor
+-object-->actor-->person-->employee-->university employee-->faculty member-->professor-->full professor
+-object-->actor-->person-->employee-->university employee-->faculty member-->research professor-->research assistant professor
+-object-->actor-->person-->employee-->university employee-->faculty member-->research professor-->research associate professor
+-object-->actor-->person-->employee-->university employee-->faculty member-->research professor-->research full professor

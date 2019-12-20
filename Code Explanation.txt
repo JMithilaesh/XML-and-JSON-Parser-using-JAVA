@@ -1,0 +1,6 @@
+
+- For the given problem statement, there were two concepts which had no parents(root). So the path length was computed for both the roots in the solution code.
+- For the root nodes the JSON representation has "no parent" in the "parent" element for the purpose for understandability.
+- The average of parents was computed by dividing total parents by total concepts.
+- For the concepts with two parents the path with more length to reach root node was considered.
+- The total workaround for designing this solution was 4 hours per day * 2 days.
